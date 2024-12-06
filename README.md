@@ -13,9 +13,3 @@ This is a simple weather application built using **React.js**. It allows users t
 - Axios (for API calls)
 - OpenWeatherMap API
 
-## Setup and Installation 🖥️
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd weather-app
